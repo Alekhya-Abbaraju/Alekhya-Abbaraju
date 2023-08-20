@@ -2,10 +2,10 @@
 - 🥅 2023 Goals: Learn more about web3 && Learning ANDROID
 - On the way to Build my First Idea On Android
 <br />
-### Intrested In:
+**Intrested In:
 - MREN Full Stack
 - Android
-- Solving DSA Problems
+- Solving DSA Problems(Python)
 <br />
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
