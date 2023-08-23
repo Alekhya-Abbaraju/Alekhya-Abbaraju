@@ -2,8 +2,8 @@
 - 🥅 2023 Goals: Learn more about web3 && Learning ANDROID
 - On the way to Build my First Idea On Android
 <br />
+LEARNING :  MERN Stack
 **Intrested In:
-- MREN Full Stack
 - Android
 - Solving DSA Problems(Python)
 <br />
