@@ -19,4 +19,4 @@ LEARNING :  MERN Stack<br />
 <br />
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alekhya-Abbaraju &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alekhya-Abbaraju&theme=radical)
